@@ -5,14 +5,9 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+University+of+Lucknow;Android+Developer+%7C+Kotlin+%2B+Jetpack+Compose;DSA+Enthusiast+%7C+Java+%7C+Striver's+A2Z;Building+Synapse+%F0%9F%A7%A0+%E2%80%94+AI+Planner+App;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+University+of+Lucknow;Android+Developer+%7C+Kotlin+%2B+Jetpack+Compose;DSA+Enthusiast+%7C+Java+%7C+Striver's+A2Z;Built+Synapse+%F0%9F%A7%A0+%E2%80%94+AI+Planner+App;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Profile Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=priyanshu-1git&style=for-the-badge&color=0e75b6)
-[![GitHub followers](https://img.shields.io/github/followers/priyanshu-1git?label=Followers&style=for-the-badge&color=0e75b6)](https://github.com/priyanshu-1git)
 
 </div>
 
@@ -23,7 +18,7 @@
 ```kotlin
 data class Developer(
     val name: String    = "Priyanshu Chauhan",
-    val role: String    = "B.Tech CSE Student @ University of Lucknow (6th Sem)",
+    val role: String    = "B.Tech CSE Student @ University of Lucknow (7th Sem)",
     val cgpa: Double    = 8.67,
     val focus: List<String> = listOf(
         "Android Development (Kotlin + Jetpack Compose)",
@@ -83,6 +78,8 @@ data class Developer(
 - 🤖 **Context-aware AI assistant** powered by Gemini 1.5 Flash  
 - 🏗️ Built with **Clean Architecture + MVVM + Coroutines**
 
+🔗 [View Project](https://github.com/priyanshu-1git/Synapse---AI-Powered-Student-Planner)
+
 </td>
 <td width="50%" valign="top">
 
@@ -96,7 +93,7 @@ data class Developer(
 - 🎭 **Role-Based Access Control** for Admins & Students  
 - 🧩 Singleton design pattern for optimized DB interactions  
 
-🔗 [View Project](https://github.com/priyanshu-1git)
+🔗 [View Project](https://github.com/priyanshu-1git/Library-Management-System)
 
 </td>
 </tr>
@@ -109,12 +106,7 @@ data class Developer(
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshu-1git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-1git&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-1git&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=6e7681" />
 
 </div>
 
@@ -148,8 +140,8 @@ data class Developer(
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-chauhan1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanshu_chauhan1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanshu-1git)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshuchauhan9936@gmail.com)
 
