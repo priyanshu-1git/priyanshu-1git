@@ -19,7 +19,7 @@
 data class Developer(
     val name: String    = "Priyanshu Chauhan",
     val role: String    = "B.Tech CSE Student @ University of Lucknow (7th Sem)",
-    val cgpa: Double    = 8.67,
+    val cgpa: Double    = 8.93,
     val focus: List<String> = listOf(
         "Android Development (Kotlin + Jetpack Compose)",
         "Data Structures & Algorithms (Java)",
