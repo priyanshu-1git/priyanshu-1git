@@ -78,6 +78,21 @@ data class Developer(
 <tr>
 <td width="50%" valign="top">
 
+### 📚 Library Management System
+**`Java` `Servlets` `MySQL` `JavaScript`**
+
+> Full-stack MVC web app to automate library operations.
+
+- 📦 Real-time inventory tracking & automated fine calculation  
+- 🔐 Secure **RESTful APIs** with Java Servlets + JDBC  
+- 🎭 **Role-Based Access Control** for Admins & Students  
+- 🧩 Singleton design pattern for optimized DB interactions  
+
+🔗 [View Project](https://github.com/priyanshu-1git/Library-Management-System)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🧠 Synapse — AI Adaptive Planner
 **`Kotlin` `Jetpack Compose` `Room` `Hilt` `Gemini AI`**
 
@@ -89,21 +104,6 @@ data class Developer(
 - 🏗️ Built with **Clean Architecture + MVVM + Coroutines**
 
 🔗 [View Project](https://github.com/priyanshu-1git/Synapse---AI-Powered-Student-Planner)
-
-</td>
-<td width="50%" valign="top">
-
-### ♻️ InventoryWise AI — Waste Prevention
-**`Python` `FastAPI` `Scikit-learn` `Plotly` `Vercel`**
-
-> AI decision-support system that flags perishable surplus before expiry.
-
-- 📈 **Random Forest demand forecasting** with recursive multi-day predictions  
-- 🚦 **Risk classification** from shelf-life & surplus exposure (Critical → No Risk)  
-- 📊 Interactive dashboard with **Action Center** & batch-level reasoning  
-- 🌍 Aligned with **UN SDG 12** · Responsible-AI disclosure included  
-
-🔗 [View Project](https://github.com/priyanshu-1git/inventorywise-ai) · 🌐 [Live Demo](https://inventorywise-ai.vercel.app/)
 
 </td>
 </tr>
@@ -125,6 +125,23 @@ data class Developer(
 </td>
 <td width="50%" valign="top">
 
+### ♻️ InventoryWise AI — Waste Prevention
+**`Python` `FastAPI` `Scikit-learn` `Plotly` `Vercel`**
+
+> AI decision-support system that flags perishable surplus before expiry.
+
+- 📈 **Random Forest demand forecasting** with recursive multi-day predictions  
+- 🚦 **Risk classification** from shelf-life & surplus exposure (Critical → No Risk)  
+- 📊 Interactive dashboard with **Action Center** & batch-level reasoning  
+- 🌍 Aligned with **UN SDG 12** · Responsible-AI disclosure included  
+
+🔗 [View Project](https://github.com/priyanshu-1git/inventorywise-ai) · 🌐 [Live Demo](https://inventorywise-ai.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏋️ Iron Log — Workout Tracker
 **`Kotlin` `WebView` `JavaScript` `Chart.js` `jsPDF`**
 
@@ -136,23 +153,6 @@ data class Developer(
 - 📴 Works fully offline — no `INTERNET` permission  
 
 🔗 [View Project](https://github.com/priyanshu-1git/iron-log) · 📱 [Download APK](https://github.com/priyanshu-1git/iron-log/releases/tag/v1.0.0)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 Library Management System
-**`Java` `Servlets` `MySQL` `JavaScript`**
-
-> Full-stack MVC web app to automate library operations.
-
-- 📦 Real-time inventory tracking & automated fine calculation  
-- 🔐 Secure **RESTful APIs** with Java Servlets + JDBC  
-- 🎭 **Role-Based Access Control** for Admins & Students  
-- 🧩 Singleton design pattern for optimized DB interactions  
-
-🔗 [View Project](https://github.com/priyanshu-1git/Library-Management-System)
 
 </td>
 <td width="50%" valign="top">
